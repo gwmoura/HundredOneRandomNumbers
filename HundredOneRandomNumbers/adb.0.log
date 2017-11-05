@@ -1,0 +1,10 @@
+--- adb starting (pid 31716) ---
+adb I 31716 31716 main.cpp:78] Android Debug Bridge version 1.0.36
+adb I 31716 31716 main.cpp:78] Revision af05c7354fe1-android
+adb I 31716 31716 main.cpp:78] 
+adb server killed by remote request
+--- adb starting (pid 31893) ---
+adb I 31893 31893 main.cpp:78] Android Debug Bridge version 1.0.36
+adb I 31893 31893 main.cpp:78] Revision af05c7354fe1-android
+adb I 31893 31893 main.cpp:78] 
+adb server killed by remote request

@@ -1,0 +1,10 @@
+version: '3'
+services:
+  node:
+    build: .
+    network_mode: "host"
+    volumes:
+      - .:/app
+    command: yarn start
+    ports:
+      - "19000:19000"
